@@ -2,4 +2,6 @@
 
 USYD Engineering student building ML, simulation, embedded systems, and full-stack projects.
 
-Most of my earlier project work was on a university-managed GitHub account that isn’t accessible outside the organisation. I’m now migrating selected projects here as cleaned, public repos. This profile is still in launch mode — more exciting builds coming soon 🚀
+A lot of my earlier work started behind campus gates and wasn’t publicly accessible. I’m now bringing selected projects into the open as cleaned, public repos.
+
+Still in launch mode — more exciting builds coming soon 🚀
